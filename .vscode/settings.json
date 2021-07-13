@@ -1,0 +1,6 @@
+{
+  "jshint.enable": false,
+  "json.format.enable": false,
+  "json.schemaDownload.enable": false,
+  "jshint.config": false
+}
